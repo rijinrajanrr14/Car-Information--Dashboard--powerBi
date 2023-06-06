@@ -12,3 +12,6 @@ The dataset consists of the following columns:
 *Acceleration: Capability to increase speed, measured in seconds.<br>
 *Model Year: Year of manufacture for the automobile model.<br>
 *Origin: Country or region of origin for each automobile.<br>
+
+
+#### Have uploaded the Dashboard  pdf file for seeing the result
